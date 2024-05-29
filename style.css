@@ -1,4 +1,4 @@
-body {background-color: pink
+body {background-color: rgb(164, 0, 143)
 }
 
 .p1 {font-size: 200%;
@@ -15,8 +15,8 @@ body {background-color: pink
 }
 .p2 {font-size: 150%;
     text-align:center;
-    background-color: light brown;
-    border-color: purple;
+    background-color: light rgb(167, 21, 43);
+    border-color: rgb(227, 26, 56);
     border-width: 6px;
     border-style: dotted;
     margin-left: 1%;
@@ -26,7 +26,7 @@ body {background-color: pink
 }
 .p3 {font-size: 170%;
     text-align:center;
-    background-color:orange;
+    background-color:rgb(236, 116, 222);
     border-color: purple;
     border-radius: 50%; 
     border-style: ridge;
