@@ -1,0 +1,69 @@
+body {background-color: pink
+}
+
+.p1 {font-size: 200%;
+    text-align:center;
+    background-color: white;
+    border-color: yellow;
+    border-width: 6px;
+    border-style: double;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 10%;
+   
+
+}
+.p2 {font-size: 150%;
+    text-align:center;
+    background-color: light brown;
+    border-color: purple;
+    border-width: 6px;
+    border-style: dotted;
+    margin-left: 1%;
+    margin-right: 20%;
+    padding-left: 10%;
+  
+}
+.p3 {font-size: 170%;
+    text-align:center;
+    background-color:orange;
+    border-color: purple;
+    border-radius: 50%; 
+    border-style: ridge;
+
+   
+  
+
+}
+.p4 {
+    width: 300px;
+  
+    border-top: 3px solid #1E90FF;
+    border-left: 3px solid #1E90FF;
+    position: relative;
+    background: yellow;
+    
+    padding: 20px;
+    font-family: monospace
+  }
+  
+  .p4:before {
+    content: " ";
+    position: absolute;
+    width: 2px;
+    height: calc(100% - 80px);
+    left: -3px;
+    bottom: 0;
+    border-left: 1px solid #CCCCCC;
+    background: white;
+  }
+  
+  .p4:after {
+    content: " ";
+    position: absolute;
+    width: 2px;
+    height: 30px;
+    left: -2px;
+    top: 100px;
+    background: #CCCCCC;
+  }
