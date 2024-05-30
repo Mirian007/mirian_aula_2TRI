@@ -3,25 +3,26 @@ body {background-color: rgb(164, 0, 143)
 
 .p1 {font-size: 200%;
     text-align:center;
-    background-color: white;
+    background-color: rgb(140, 0, 0);
     border-color: yellow;
-    border-width: 6px;
+    border-width: 5px;
     border-style:dashed;
-    margin-left: 20%;
-    margin-right: 20%;
-    padding-left: 200%;
+    margin-left: 10%;
+    margin-right: 50%;
+    margin-top: 5%;
+    padding-left: 20%;
     border-right-color: orange 9px;
    
 
 }
-.p2 {font-size: 150%;
+.p2 {font-size: 200%;
     text-align:left;
     background-color: light rgb(167, 21, 43);
     border-color: rgb(227, 26, 56);
-    border-width: 6px;
+    border-width: 5px;
     border-style: dotted;
-    margin-left: 1%;
-    margin-right: 20%;
+    margin-left: 50%;
+    margin-right: 10%;
     padding-left: 10%;
   
 }
@@ -34,11 +35,11 @@ body {background-color: rgb(164, 0, 143)
     border-style: ridge;
 } 
 .p4 {background-color: rgb(255, 238, 0);
-    color: rgb(255, 191, 0); 
+    color: rgb(0, 0, 0); 
     font-size: 200%; 
     text-align: center; 
 
-    border-color: rgb(255, 255, 255); 
+    border-color: rgb(255, 191, 0); 
     border-width: 5px; 
     border-style: solid;
 
