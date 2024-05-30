@@ -67,3 +67,19 @@ body {background-color: rgb(164, 0, 143)
     top: 100px;
     background: #CCCCCC;
   }
+
+  .div1a {
+    border-image: url('borda.jpg') 15 / 15px round;
+  }
+  .div1b {
+    border-image: url('borda.jpg') 15 / 15px repeat;
+  }
+  .div1c {
+    border-image: url('borda.jpg') 15 / 15px stretch;
+  }
+  .div1d {
+    border-image: url('borda.jpg') 15 / 15px  round  stretch;
+  }
+  .div1e {
+    border-image: url('borda.jpg') 15 / 15px stretch  round ;
+  }
