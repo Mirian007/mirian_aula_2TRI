@@ -14,7 +14,7 @@ body {background-color: rgb(164, 0, 143)
 
 }
 .p2 {font-size: 150%;
-    text-align:center;
+    text-align:left;
     background-color: light rgb(167, 21, 43);
     border-color: rgb(227, 26, 56);
     border-width: 6px;
@@ -25,8 +25,9 @@ body {background-color: rgb(164, 0, 143)
   
 }
 .p3 {font-size: 170%;
-    text-align:center;
+    text-align:right;
     background-color:rgb(236, 116, 222);
+    border-width: 6px;
     border-color: purple;
     border-radius: 50%; 
     border-style: ridge;
@@ -50,20 +51,20 @@ body {background-color: rgb(164, 0, 143)
   .p4:before {
     content: " ";
     position: absolute;
-    width: 2px;
+    width: 6px;
     height: calc(100% - 80px);
     left: -3px;
     bottom: 0;
-    border-left: 1px solid #CCCCCC;
+    border-left: 6px solid #CCCCCC;
     background: white;
   }
   
   .p4:after {
     content: " ";
     position: absolute;
-    width: 2px;
+    width: 6px;
     height: 30px;
-    left: -2px;
+    left: -6px;
     top: 100px;
     background: #CCCCCC;
   }
@@ -75,7 +76,8 @@ body {background-color: rgb(164, 0, 143)
     border-image: url('borda.jpg') 15 / 15px repeat;
   }
   .div1c {
-    border-image: url('borda.jpg') 15 / 15px stretch;
+    border-image: url('borda.jpg
+    ') 15 / 15px stretch;
   }
   .div1d {
     border-image: url('borda.jpg') 15 / 15px  round  stretch;
