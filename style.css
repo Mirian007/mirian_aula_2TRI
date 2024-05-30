@@ -76,8 +76,7 @@ body {background-color: rgb(164, 0, 143)
     border-image: url('borda.jpg') 15 / 15px repeat;
   }
   .div1c {
-    border-image: url('borda.jpg
-    ') 15 / 15px stretch;
+    border-image: url('borda.jpg') 15 / 15px stretch;
   }
   .div1d {
     border-image: url('borda.jpg') 15 / 15px  round  stretch;
