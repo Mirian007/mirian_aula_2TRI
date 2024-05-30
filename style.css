@@ -1,4 +1,4 @@
-body {background-color: rgb(164, 0, 143)
+body {background-color: rgb(227, 0, 197)
 }
 
 .p1 {font-size: 200%;
@@ -7,6 +7,7 @@ body {background-color: rgb(164, 0, 143)
     border-color: yellow;
     border-width: 5px;
     border-style:dashed;
+    border-radius: 50%; 
     margin-left: 10%;
     margin-right: 50%;
     margin-top: 5%;
@@ -16,11 +17,12 @@ body {background-color: rgb(164, 0, 143)
 
 }
 .p2 {font-size: 200%;
-    text-align:left;
-    background-color: light rgb(167, 21, 43);
-    border-color: rgb(227, 26, 56);
+    text-align:center;
+    background-color: light rgb(146, 0, 0);
+    border-color: rgb(255, 0, 0);
+    color: red;
     border-width: 5px;
-    border-style: dotted;
+    border-style:ridge;
     margin-left: 50%;
     margin-right: 10%;
     padding-left: 10%;
@@ -39,7 +41,7 @@ body {background-color: rgb(164, 0, 143)
     font-size: 200%; 
     text-align: center; 
 
-    border-color: rgb(255, 191, 0); 
+    border-color: rgb(255, 149, 19); 
     border-width: 5px; 
     border-style: solid;
 
