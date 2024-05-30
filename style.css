@@ -69,17 +69,17 @@ body {background-color: rgb(164, 0, 143)
   }
 
   .div1a {
-    border-image: url('borboleta1') 15 / 15px round;
+    border-image: urL('borda.jpg') 15 / 15px round;
   }
   .div1b {
-    border-image: url('borboleta1') 15 / 15px repeat;
+    border-image: url('borda.jpg') 15 / 15px repeat;
   }
   .div1c {
-    border-image: url('borboleta1') 15 / 15px stretch;
+    border-image: url('borda.jpg') 15 / 15px stretch;
   }
   .div1d {
-    border-image: url('borboleta1') 15 / 15px  round  stretch;
+    border-image: url('borda.jpg') 15 / 15px  round  stretch;
   }
   .div1e {
-    border-image: url('borboleta1') 15 / 15px stretch  round ;
+    border-image: url('borda.jpg') 15 / 15px stretch  round ;
   }
