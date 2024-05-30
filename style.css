@@ -25,51 +25,27 @@ body {background-color: rgb(164, 0, 143)
     padding-left: 10%;
   
 }
-.p3 {font-size: 170%;
+.p3 {font-size: 200%;
     text-align:right;
     background-color:rgb(236, 116, 222);
     border-width: 6px;
     border-color: purple;
     border-radius: 50%; 
     border-style: ridge;
+} 
+.p4 {background-color: rgb(255, 238, 0);
+    color: rgb(255, 191, 0); 
+    font-size: 200%; 
+    text-align: center; 
 
-   
-  
+    border-color: rgb(255, 255, 255); 
+    border-width: 5px; 
+    border-style: solid;
 
+    margin-left: 50%;
+    margin-right: 10%;
+    margin-top: 5%;
 }
-.p4 {
-    width: 300px;
-    text-align:end;
-    border-top: 3px solid #f11b1b;
-    border-left: 3px solid #ff3787;
-    position: relative;
-    background: rgb(89, 0, 0);
-    
-    padding: 20px;
-    font-family: monospace
-  }
-  
-  .p4:before {
-    content: " ";
-    position: absolute;
-    width: 6px;
-    height: calc(100% - 80px);
-    left: -3px;
-    bottom: 0;
-    border-left: 6px solid #CCCCCC;
-    background: white;
-  }
-  
-  .p4:after {
-    content: " ";
-    position: absolute;
-    width: 6px;
-    height: 30px;
-    left: -6px;
-    top: 100px;
-    background: #CCCCCC;
-  }
-
   .div1a {
     border-image: urL('borda.jpg') 15 / 15px round;
   }
