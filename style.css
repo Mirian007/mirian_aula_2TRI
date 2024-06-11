@@ -1,6 +1,6 @@
 @media screen and (min-width:500px) {
 
-body {background-color: rgb(216, 97, 0)
+body {background-color: rgb(0, 7, 105)
 }
 }
 
@@ -8,8 +8,8 @@ body {background-color: rgb(216, 97, 0)
 
 .p1 {font-size: 200%;
     text-align:center;
-    background-color: rgb(140, 0, 0);
-    border-color: yellow;
+    background-color: rgb(17, 117, 13);
+    border-color: rgb(6, 252, 88);
     border-width: 5px;
     border-style:dashed;
     border-radius: 50%; 
@@ -17,13 +17,13 @@ body {background-color: rgb(216, 97, 0)
     margin-right: 50%;
     margin-top: 5%;
     padding-left: 20%;
-    border-right-color: orange 9px;
+    border-right-color: rgb(163, 255, 151) 9px;
    
 
 }
 .p2 {font-size: 200%;
     text-align:center;
-    background-color: light rgb(17, 131, 46);
+    background-color: light rgb(97, 184, 255);
     border-color: rgb(0, 51, 161);
     color: rgb(11, 96, 255);
     border-width: 5px;
@@ -46,7 +46,7 @@ body {background-color: rgb(216, 97, 0)
     font-size: 200%; 
     text-align: center; 
 
-    border-color: rgb(255, 149, 19); 
+    border-color: rgb(0, 0, 0); 
     border-width: 5px; 
     border-style: solid;
 
