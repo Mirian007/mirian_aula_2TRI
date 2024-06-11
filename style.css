@@ -49,18 +49,3 @@ body {background-color: rgb(227, 0, 197)
     margin-right: 10%;
     margin-top: 5%;
 }
-  .div1a {
-    border-image: urL('borda.jpg') 15 / 15px round;
-  }
-  .div1b {
-    border-image: url('borda.jpg') 15 / 15px repeat;
-  }
-  .div1c {
-    border-image: url('borda.jpg') 15 / 15px stretch;
-  }
-  .div1d {
-    border-image: url('borda.jpg') 15 / 15px  round  stretch;
-  }
-  .div1e {
-    border-image: url('borda.jpg') 15 / 15px stretch  round ;
-  }
