@@ -1,6 +1,6 @@
 @media screen and (min-width:500px) {
 
-body {background-color: rgb(227, 0, 197)
+body {background-color: rgb(216, 97, 0)
 }
 }
 
@@ -23,9 +23,9 @@ body {background-color: rgb(227, 0, 197)
 }
 .p2 {font-size: 200%;
     text-align:center;
-    background-color: light rgb(146, 0, 0);
-    border-color: rgb(255, 0, 0);
-    color: red;
+    background-color: light rgb(17, 131, 46);
+    border-color: rgb(0, 51, 161);
+    color: rgb(11, 96, 255);
     border-width: 5px;
     border-style:ridge;
     margin-left: 50%;
